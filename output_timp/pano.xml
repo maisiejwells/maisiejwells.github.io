@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node4" appversion="6.1.13" apprev="18080">
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3463" width="3463" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1" leveltilesize="510">
+      <level predecode="0" preload="0" height="3463" width="3463"/>
+      <level predecode="0" preload="0" height="1731" width="1731"/>
+      <level predecode="0" preload="0" height="865" width="865"/>
+      <level predecode="1" preload="1" height="432" width="432"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-156.471">
+      <start pan="99.827" tilt="6.19746" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata longitude="-111.77091122" customnodeid="" info="" nodeid="node4" source="" heading="-156.471" author="" datetime="3/24/19 7:10 AM" copyright="" description="" latitude="40.39343053" title="" comment="" tags="Timp"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textcolor="0x000000" wordwrap="1" borderradius="1" height="20" textalpha="1" width="180" background="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-277.74" tilt="7.25" target="" id="Point01" url="images/5.png" description="" skinid="ht_image" title="Aerial View of Mount Timpanogos Temple"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" zoomspeed="2" zoomafteroutfov="20" blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomoutpause="1" zoomafterinfov="90" enabled="1" zoomin="0"/>
+    <autorotate speed="0.050" delay="5.00" nodefilter="" startloaded="0" useanimation="0" noderandom="1" nodedelay="0.00" returntohorizon="0.000" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedwheel="0" contextfullscreen="1" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata longitude="" customnodeid="" info="" nodeid="master" source="" heading="0" author="" datetime="" copyright="" description="" latitude="" title="" comment="" tags=""/>
+  </masternode>
+</tour>

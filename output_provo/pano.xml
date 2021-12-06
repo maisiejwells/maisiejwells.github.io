@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" appversion="6.1.13" apprev="18080">
+  <panorama id="node3">
+    <input levelbias="0.400" width="3470" levelbiashidpi="1.000" height="3470" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1">
+      <level preload="0" width="3470" height="3470" predecode="0"/>
+      <level preload="0" width="1735" height="1735" predecode="0"/>
+      <level preload="0" width="867" height="867" predecode="0"/>
+      <level preload="1" width="433" height="433" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="26.8151" fovmode="0">
+      <start tilt="5.85345" fov="70" projection="4" pan="81.6821"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata datetime="3/24/19 6:28 AM" copyright="" comment="" description="" heading="26.8151" source="" nodeid="node3" latitude="40.26420157" author="" info="" tags="Provo" customnodeid="" longitude="-111.64006233" title=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" borderalpha="1" border="1" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundalpha="1" enabled="1" width="180" background="1" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot id="Point01" skinid="ht_image" target="" description="" tilt="10.14" pan="-301.4" url="images/4.png" title="New design for the Provo,  UT temple"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomoutpause="1" enabled="1" zoomspeed="2" zoomout="0" zoomin="0" zoomfov="20" blendtime="1" type="crossdissolve" softedge="0"/>
+    <autorotate delay="5.00" noderandom="1" returntohorizon="0.000" enabled="1" nodefilter="" nodedelay="0.00" useanimation="0" speed="0.050" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" rubberband="0" contextvr="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" copyright="" comment="" description="" heading="0" source="" nodeid="master" latitude="" author="" info="" tags="" customnodeid="" longitude="" title=""/>
+  </masternode>
+</tour>
